@@ -9,4 +9,4 @@ We are Group 11. Our group members are:
 5. Miraç İşcan
 
 ## Project Part 1
-BU-IE-423-fall19-DuyguBedir/IE 423 Group 11.html is our Project Part 1.
+https://bu-ie-582.github.io/BU-IE-423-fall19-DuyguBedir/IE%20423%20Group%2011.html is our Project Part 1.
