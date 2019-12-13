@@ -6,4 +6,4 @@ We are the Group 11. Our group members are:
 
 
 ## Project Part 2
-[Here](Project Part 2/IE 423 Project Part 2.html) is our Project Part 2.
+[Here](Project%20Part%202/IE%20423%20Project%20Part%202.html) is our Project Part 2.
